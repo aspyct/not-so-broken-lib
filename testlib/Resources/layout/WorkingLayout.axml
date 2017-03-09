@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     <TextView
-        android:text="Hello world"
+        android:text="Working layout"
         app:layout_widthPercent="50%"
         app:layout_heightPercent="50%"
         android:background="#cc0000" />
